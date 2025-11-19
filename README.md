@@ -4,7 +4,7 @@
 
 <h1>Jonatas Silva</h1>
     <p align="left">
-         <h3>Back-end Developer | Linux and Go enthusiast</h3>
+         <h3>Linux enthusiast</h3>
 <h4 align="left"><i>Stack:</i></h4>
         <li>Go</li>
         <li>Docker</li>
